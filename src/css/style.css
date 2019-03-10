@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  font-weight: 400;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.widget-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Revenue",
+        "device": [
+            {
+                "deviceType": "Smartphone",
+                "value": 80000
+            },
+            {
+                "deviceType": "Tablet",
+                "value": 120000
+            }
+        ],
+        "periods": [
+            {
+                "month": 1,
+                "number": 30
+            },
+            {
+                "month": 2,
+                "number": 45
+            },
+            {
+                "month": 3,
+                "number": 42
+            },
+            {
+                "month": 4,
+                "number": 67
+            },
+            {
+                "month": 5,
+                "number": 56
+            },
+            {
+                "month": 6,
+                "number": 64
+            },
+            {
+                "month": 7,
+                "number": 67
+            },
+            {
+                "month": 8,
+                "number": 74
+            },
+            {
+                "month": 9,
+                "number": 69
+            },
+            {
+                "month": 10,
+                "number": 76
+            },
+            {
+                "month": 11,
+                "number": 80
+            },
+            {
+                "month": 12,
+                "number": 90
+            }
+        ]
+    },
+    {
+        "title": "Impressions",
+        "device": [
+            {
+                "deviceType": "Smartphone",
+                "value": 30000000
+            },
+            {
+                "deviceType": "Tablet",
+                "value": 20000000
+            }
+        ],
+        "periods": [
+            {
+                "month": 1,
+                "number": 90
+            },
+            {
+                "month": 2,
+                "number": 85
+            },
+            {
+                "month": 3,
+                "number": 82
+            },
+            {
+                "month": 4,
+                "number": 57
+            },
+            {
+                "month": 5,
+                "number": 56
+            },
+            {
+                "month": 6,
+                "number": 34
+            },
+            {
+                "month": 7,
+                "number": 27
+            },
+            {
+                "month": 8,
+                "number": 24
+            },
+            {
+                "month": 9,
+                "number": 39
+            },
+            {
+                "month": 10,
+                "number": 18
+            },
+            {
+                "month": 11,
+                "number": 16
+            },
+            {
+                "month": 12,
+                "number": 15
+            }
+        ]
+    },
+    {
+        "title": "Visits",
+        "device": [
+            {
+                "deviceType": "Smartphone",
+                "value": 120000000
+            },
+            {
+                "deviceType": "Tablet",
+                "value": 480000000
+            }
+        ],
+        "periods": [
+            {
+                "month": 1,
+                "number": 30
+            },
+            {
+                "month": 2,
+                "number": 45
+            },
+            {
+                "month": 3,
+                "number": 42
+            },
+            {
+                "month": 4,
+                "number": 67
+            },
+            {
+                "month": 5,
+                "number": 56
+            },
+            {
+                "month": 6,
+                "number": 64
+            },
+            {
+                "month": 7,
+                "number": 67
+            },
+            {
+                "month": 8,
+                "number": 74
+            },
+            {
+                "month": 9,
+                "number": 69
+            },
+            {
+                "month": 10,
+                "number": 76
+            },
+            {
+                "month": 11,
+                "number": 80
+            },
+            {
+                "month": 12,
+                "number": 90
+            }
+        ]
+    }
+]

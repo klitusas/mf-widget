@@ -1,0 +1,36 @@
+{
+  "name": "marfeel",
+  "version": "1.0.0",
+  "description": "Marfeel widget",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open",
+    "test": "mocha --compilers js:babel-core/register --require babel-polyfill -R progress --timeout 15000"
+  },
+  "author": "Andrejus Solovjovas",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-custom-element-classes": "^0.1.0",
+    "babel-plugin-transform-es2015-classes": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "html-webpack-plugin": "^3.0.7",
+    "mocha": "^5.2.0",
+    "showroom": "^0.9.3",
+    "webpack": "4.19.1",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.1"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "d3": "^5.9.1",
+    "es6-promise": "^4.2.6",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
